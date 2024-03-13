@@ -14,7 +14,7 @@ A imagem abaixo fará referência ao projeto Mega Show Rock em Rio, onde os clie
 - Pagamentos de Ingressos. 
 
 <h2 font-family="pattaya">Arquitetura do Projeto</h2><br>
-![Arquitetura do Projeto](show_rock.png)
+<img src="show_rock.png" alt="Arquiteturta do Projeto">
 
 <h2 font-family="pattaya">Regras de Negócio</h2><br>
 - Haverá uma fila de espera para a compra de ingressos. Enquanto um cliente inicia o processo de compra, o próximo deverá aguardar a sua liberação para acesso à página de compras.<br>
